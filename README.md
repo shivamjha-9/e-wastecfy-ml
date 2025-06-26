@@ -1,5 +1,4 @@
 ![E-Waste Classifier Banner](banner.png)
-![App Preview](preview.gif)
 # ♻️ E-Waste Image Classification using EfficientNetV2B0 (Transfer Learning)
 
 This project uses **EfficientNetV2B0**, a powerful deep learning model, to automatically classify electronic waste (e-waste) images into 10 distinct categories. It supports automation in recycling by replacing manual, error-prone sorting with an AI-powered solution.
@@ -22,6 +21,8 @@ E-waste is one of the fastest-growing waste streams globally. Accurate and autom
 > **To build an AI-powered image classifier that can detect and label e-waste items using a pre-trained EfficientNetV2B0 model with transfer learning.**
 
 ---
+
+![E-Waste Classifier Banner](banner.png)
 
 ## 📂 Dataset
 
