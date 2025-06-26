@@ -22,7 +22,7 @@ E-waste is one of the fastest-growing waste streams globally. Accurate and autom
 
 ---
 
-![E-Waste Classifier Banner](banner.png)
+![App Preview](preview.gif)
 
 ## 📂 Dataset
 
