@@ -1,3 +1,4 @@
+![E-Waste Classifier Banner](banner.png)
 ![App Preview](preview.gif)
 # ♻️ E-Waste Image Classification using EfficientNetV2B0 (Transfer Learning)
 
